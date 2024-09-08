@@ -1,0 +1,21 @@
+
+.chat {
+    /* position: fixed;  */
+    bottom: 0; 
+    width: 100%;
+    z-index: 999; 
+}
+
+/* .container {
+    position: fixed;
+    bottom: 60px; 
+    right: 20px; 
+    z-index: 999; 
+} */
+
+
+img.w3-hover-indigo:hover {
+    background-color: indigo; /* สีที่ต้องการเมื่อ hover */
+}
+
+
